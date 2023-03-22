@@ -2,7 +2,7 @@
 # AUTHOR = AKILESH S,
 
 ## Motivation
-As an active user on [LinkedIn](http://www.linkedin.com/in/Akilesh--S with more than 1000 connections, I was curious about the statistics of my network. 
+As an active user on [LinkedIn](http://www.linkedin.com/in/Akilesh--S) with more than 1000 connections, I was curious about the statistics of my network. 
 In particular, I was wondering about these questions:
 
 > What are the segments of people in my network?
